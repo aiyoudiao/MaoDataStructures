@@ -11,6 +11,8 @@ Source Code related articles have been published to [juejin](https://juejin.im/u
 
 This is suitable for, people who want to understand and are interested in data structure, collate these notes and source code, and the time span is also nearly half a year Hopefully it will be useful for people who want to learn about data structures or who are learning about data structures.
 
+For the first time, if you have any comments, you can put them up in the comments section of the article, you can also put them up in the source code discussion section, your comments are the direction of my progress.
+
 ![Mind Map](./IMAGES/png/2.jpg)
 
 ## Catalog
