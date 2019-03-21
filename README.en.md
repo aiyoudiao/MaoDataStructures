@@ -7,7 +7,7 @@ Arrays(数组)、Stacks(栈)、Queues(队列)、Linked List(链表)、Recursion(
 
 Source Code has three: ES6 | js + HTML | Java
 
-Source Code related articles have been published to [juejin](https://juejin.im/user/5c4ad8b85188252d3b3e3c9e) and [segmentfault](https://segmentfault.com/a/1190000018592698), Just look at the article can master 20% , hands-on tapping code, brain thinking, drawing can master 80% .
+Source Code related articles have been published to [juejin](https://juejin.im/user/5c4ad8b85188252d3b3e3c9e) and [segmentfault](https://segmentfault.com/u/aiyodiao/articles), Just look at the article can master 20% , hands-on tapping code, brain thinking, drawing can master 80% .
 
 This is suitable for, people who want to understand and are interested in data structure, collate these notes and source code, and the time span is also nearly half a year Hopefully it will be useful for people who want to learn about data structures or who are learning about data structures.
 

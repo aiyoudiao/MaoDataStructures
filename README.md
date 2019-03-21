@@ -7,7 +7,7 @@ Arrays(数组)、Stacks(栈)、Queues(队列)、LinkedList(链表)、Recursion(�
 
 源代码有三个：ES6（单个单个的 class 类型的 js 文件） | JS + HTML（一个 js 配合一个 html）| JAVA (一个一个的工程)
 
-源代码相关的文章已经陆续发布至[掘金平台](https://juejin.im/user/5c4ad8b85188252d3b3e3c9e)和[思否平台](https://segmentfault.com/a/1190000018592698)，光看文章能够掌握两成，动手敲代码、动脑思考、画图才可以掌握八成。
+源代码相关的文章已经陆续发布至[掘金平台](https://juejin.im/user/5c4ad8b85188252d3b3e3c9e)和[思否平台](https://segmentfault.com/u/aiyodiao/articles)，光看文章能够掌握两成，动手敲代码、动脑思考、画图才可以掌握八成。
 
 这个适合 对数据结构想了解并且感兴趣的人群，整理这些笔记加源码，时间跨度也算将近半年时间了，希望对想学习数据结构的人或者正在学习数据结构的人群有帮助。
 
