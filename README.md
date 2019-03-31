@@ -13,6 +13,7 @@ Arrays(数组)、Stacks(栈)、Queues(队列)、LinkedList(链表)、Recursion(�
 
 第一次做这样的事儿，如果有什么意见，可以提出来，可以在文章评论区域提出，也可以在源代码讨论区提出，你们的意见就是我进步的方向噢。
 
+[思维导图](https://www.edrawsoft.cn/viewer/public/s/7b2f1941621489)
 ![思维导图](./IMAGES/png/2.jpg)
 
 ## 目录
