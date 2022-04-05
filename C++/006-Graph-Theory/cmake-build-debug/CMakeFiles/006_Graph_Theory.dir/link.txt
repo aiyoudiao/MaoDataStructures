@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/006_Graph_Theory.dir/main.cpp.o  -o 006_Graph_Theory.exe -Wl,--out-implib,lib006_Graph_Theory.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

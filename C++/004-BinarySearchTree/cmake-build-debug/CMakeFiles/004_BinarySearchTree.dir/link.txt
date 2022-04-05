@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/004_BinarySearchTree.dir/main.cpp.o CMakeFiles/004_BinarySearchTree.dir/001-Binary-Serach/main.cpp.o  -o 004_BinarySearchTree.exe -Wl,--out-implib,lib004_BinarySearchTree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

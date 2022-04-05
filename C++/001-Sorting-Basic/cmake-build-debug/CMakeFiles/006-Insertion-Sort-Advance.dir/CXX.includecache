@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/006-Insertion-Sort-Advance/InsertionSort.h
+iostream
+-
+algorithm
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/006-Insertion-Sort-Advance/SelectionSort.h
+iostream
+-
+algorithm
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/006-Insertion-Sort-Advance/SortTestHelper.h
+iostream
+-
+ctime
+-
+cassert
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/006-Insertion-Sort-Advance/Student.h
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/006-Insertion-Sort-Advance/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+Student.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/006-Insertion-Sort-Advance/Student.h
+SortTestHelper.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/006-Insertion-Sort-Advance/SortTestHelper.h
+SelectionSort.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/006-Insertion-Sort-Advance/SelectionSort.h
+InsertionSort.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/006-Insertion-Sort-Advance/InsertionSort.h
+

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/004-Binary-Search-Tree-Search/FileOps.h
+string
+-
+iostream
+-
+fstream
+-
+vector
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/004-Binary-Search-Tree-Search/SequenceST.h
+iostream
+-
+cassert
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/004-Binary-Search-Tree-Search/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+vector
+-
+FileOps.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/004-Binary-Search-Tree-Search/FileOps.h
+SequenceST.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/004-Binary-Search-Tree-Search/SequenceST.h
+

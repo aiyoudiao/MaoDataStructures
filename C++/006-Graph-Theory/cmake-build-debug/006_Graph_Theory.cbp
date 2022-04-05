@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="006_Graph_Theory"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="006-BFS-And-Shortest-Path">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/006-BFS-And-Shortest-Path.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 006-BFS-And-Shortest-Path"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="006-BFS-And-Shortest-Path/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/006-BFS-And-Shortest-Path.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 006-BFS-And-Shortest-Path/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="005-Finding-A-Path">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/005-Finding-A-Path.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 005-Finding-A-Path"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="005-Finding-A-Path/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/005-Finding-A-Path.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 005-Finding-A-Path/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="004-DFS-and-Components">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/004-DFS-and-Components.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 004-DFS-and-Components"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="004-DFS-and-Components/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/004-DFS-and-Components.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 004-DFS-and-Components/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="003-Read-Graph">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/003-Read-Graph.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 003-Read-Graph"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="003-Read-Graph/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/003-Read-Graph.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 003-Read-Graph/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="002-Vertex-Adjacent-Iterator">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/002-Vertex-Adjacent-Iterator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 002-Vertex-Adjacent-Iterator"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="002-Vertex-Adjacent-Iterator/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/002-Vertex-Adjacent-Iterator.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 002-Vertex-Adjacent-Iterator/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="001-Graph-Representation">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/001-Graph-Representation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 001-Graph-Representation"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="001-Graph-Representation/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/001-Graph-Representation.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 001-Graph-Representation/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/001-Graph-Representation/DenseGraph.h">
+			<Option target="001-Graph-Representation"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/001-Graph-Representation/SparseGraph.h">
+			<Option target="001-Graph-Representation"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/001-Graph-Representation/main.cpp">
+			<Option target="001-Graph-Representation"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/002-Vertex-Adjacent-Iterator/DenseGraph.h">
+			<Option target="002-Vertex-Adjacent-Iterator"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/002-Vertex-Adjacent-Iterator/SparseGraph.h">
+			<Option target="002-Vertex-Adjacent-Iterator"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/002-Vertex-Adjacent-Iterator/main.cpp">
+			<Option target="002-Vertex-Adjacent-Iterator"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/003-Read-Graph/DenseGraph.h">
+			<Option target="003-Read-Graph"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/003-Read-Graph/ReadGraph.h">
+			<Option target="003-Read-Graph"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/003-Read-Graph/SparseGraph.h">
+			<Option target="003-Read-Graph"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/003-Read-Graph/main.cpp">
+			<Option target="003-Read-Graph"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/004-DFS-and-Components/Components.h">
+			<Option target="004-DFS-and-Components"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/004-DFS-and-Components/DenseGraph.h">
+			<Option target="004-DFS-and-Components"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/004-DFS-and-Components/ReadGraph.h">
+			<Option target="004-DFS-and-Components"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/004-DFS-and-Components/SparseGraph.h">
+			<Option target="004-DFS-and-Components"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/004-DFS-and-Components/main.cpp">
+			<Option target="004-DFS-and-Components"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/005-Finding-A-Path/Components.h">
+			<Option target="005-Finding-A-Path"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/005-Finding-A-Path/DenseGraph.h">
+			<Option target="005-Finding-A-Path"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/005-Finding-A-Path/Path.h">
+			<Option target="005-Finding-A-Path"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/005-Finding-A-Path/ReadGraph.h">
+			<Option target="005-Finding-A-Path"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/005-Finding-A-Path/SparseGraph.h">
+			<Option target="005-Finding-A-Path"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/005-Finding-A-Path/main.cpp">
+			<Option target="005-Finding-A-Path"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/006-BFS-And-Shortest-Path/Components.h">
+			<Option target="006-BFS-And-Shortest-Path"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/006-BFS-And-Shortest-Path/DenseGraph.h">
+			<Option target="006-BFS-And-Shortest-Path"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/006-BFS-And-Shortest-Path/Path.h">
+			<Option target="006-BFS-And-Shortest-Path"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/006-BFS-And-Shortest-Path/ReadGraph.h">
+			<Option target="006-BFS-And-Shortest-Path"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/006-BFS-And-Shortest-Path/ShortestPath.h">
+			<Option target="006-BFS-And-Shortest-Path"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/006-BFS-And-Shortest-Path/SparseGraph.h">
+			<Option target="006-BFS-And-Shortest-Path"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/006-BFS-And-Shortest-Path/main.cpp">
+			<Option target="006-BFS-And-Shortest-Path"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/006-Graph-Theory/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

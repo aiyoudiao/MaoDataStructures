@@ -1,0 +1,87 @@
+//
+// Created by LENOVO on 2018/11/29.
+//
+
+#ifndef INC_002_SORTING_ADVANCE_QUCIKSORTTWO_H
+#define INC_002_SORTING_ADVANCE_QUCIKSORTTWO_H
+
+#include <ostream>
+#include <ctime>
+#include <algorithm>
+
+#include "InsertionSort.h"
+
+using namespace std;
+
+// 对 arr[l...r]部分的元素进行partition操作
+// 返回p，使得arr[l...p-1] < arr[p]; arr[p+1...r] > arr[p]
+template <typename T>
+int __partition2 (T arr[], int l, int r) {
+
+    //生成一个 从[l, r]之间的一个索引，这个索引是前闭后闭的
+    // 之后只需要让随机生成的这个索引的元素和 当前最左侧的那个元素进行一下交换即可
+    // 那么之后使用的标定元素就是 这个随机生成的索引位置的元素
+    swap(arr[rand() % (r - l + 1) + l], arr[l]); // 优化二
+
+    T v = arr[l];
+
+    // arr[l+1...i] <= v ; arr[j...r) => v
+    int i = l + 1,j = r;
+    while (true) {
+        // 从前往后看
+        while (i <= r && arr[i] < v)
+            i ++;
+        // 从后向前看
+        while (j >= (l + 1) && arr[j] > v)
+            j --;
+        // 遍历完了
+        if (i > j)
+            break;
+//        进行交换
+        swap(arr[i], arr[j]);
+        // i 往后进一位
+        i ++;
+        // j 向后退一位
+        j --;
+    }
+
+    // 交换标定点值
+    swap(arr[l], arr[j]);
+//
+//    for (int i = l + 1; i <= r; i ++) {
+//        if (arr[i] < v) {
+//            swap(arr[j + 1], arr[i]);
+//            j ++;
+//        }
+//    }
+//
+//    swap(arr[l], arr[j]);
+
+    return j;
+}
+
+// 对 arr[l...r]部分的元素进行快速排序
+template <typename T>
+void __quickSort2 (T arr[], int l, int r) {
+
+//    if (l >= r)
+//        return;
+    if (r - l <= 15) { // 优化一：在合适时机使用插入排序进行优化
+        insertionSort(arr, l ,r);
+        return;
+    }
+
+    // 这个操作会返回一个索引值
+    int p = __partition2(arr, l, r);
+    __quickSort2(arr, l, p - 1);
+    __quickSort2(arr, p + 1, r);
+}
+
+template <typename T>
+void quickSort2 (T arr[], int n) {
+
+    srand(time(NULL));
+    __quickSort2(arr, 0, n - 1);
+}
+
+#endif //INC_002_SORTING_ADVANCE_QUCIKSORTTWO_H

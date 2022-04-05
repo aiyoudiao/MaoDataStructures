@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/004-Heap-Sort-Basic-And-Heapify.dir/004-Heap-Sort-Basic-And-Heapify/main.cpp.o  -o 004-Heap-Sort-Basic-And-Heapify.exe -Wl,--out-implib,lib004-Heap-Sort-Basic-And-Heapify.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

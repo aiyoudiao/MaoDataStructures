@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/008-Binary-Search-Tree-Remove.dir/008-Binary-Search-Tree-Remove/main.cpp.o  -o 008-Binary-Search-Tree-Remove.exe -Wl,--out-implib,lib008-Binary-Search-Tree-Remove.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

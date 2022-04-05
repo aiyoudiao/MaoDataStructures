@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/004-Selection-Sort-Detect-Performance.dir/004-Selection-Sort-Detect-Performance/main.cpp.o  -o 004-Selection-Sort-Detect-Performance.exe -Wl,--out-implib,lib004-Selection-Sort-Detect-Performance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

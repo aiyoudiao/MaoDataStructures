@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/008-Index-Heap-Advance.dir/008-Index-Heap-Advance/main.cpp.o  -o 008-Index-Heap-Advance.exe -Wl,--out-implib,lib008-Index-Heap-Advance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

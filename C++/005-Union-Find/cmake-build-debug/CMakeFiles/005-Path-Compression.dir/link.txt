@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/005-Path-Compression.dir/005-Path-Compression/main.cpp.o  -o 005-Path-Compression.exe -Wl,--out-implib,lib005-Path-Compression.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

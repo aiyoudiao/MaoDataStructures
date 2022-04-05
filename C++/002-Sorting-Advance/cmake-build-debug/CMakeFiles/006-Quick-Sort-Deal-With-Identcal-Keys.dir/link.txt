@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/006-Quick-Sort-Deal-With-Identcal-Keys.dir/006-Quick-Sort-Deal-With-Identcal-Keys/main.cpp.o  -o 006-Quick-Sort-Deal-With-Identcal-Keys.exe -Wl,--out-implib,lib006-Quick-Sort-Deal-With-Identcal-Keys.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

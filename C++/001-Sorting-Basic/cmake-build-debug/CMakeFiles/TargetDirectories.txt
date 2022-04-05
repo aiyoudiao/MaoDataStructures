@@ -1,0 +1,8 @@
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/cmake-build-debug/CMakeFiles/006-Insertion-Sort-Advance.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/cmake-build-debug/CMakeFiles/005-Insertion-Sort.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/cmake-build-debug/CMakeFiles/004-Selection-Sort-Detect-Performance.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/cmake-build-debug/CMakeFiles/003-Selection-Sort-Generate-Test-Cases.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/cmake-build-debug/CMakeFiles/002-Selection-Sort-Using-Template.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/cmake-build-debug/CMakeFiles/001-Selection-Sort.dir

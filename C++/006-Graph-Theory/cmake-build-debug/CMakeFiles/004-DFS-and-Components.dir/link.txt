@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/004-DFS-and-Components.dir/004-DFS-and-Components/main.cpp.o  -o 004-DFS-and-Components.exe -Wl,--out-implib,lib004-DFS-and-Components.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

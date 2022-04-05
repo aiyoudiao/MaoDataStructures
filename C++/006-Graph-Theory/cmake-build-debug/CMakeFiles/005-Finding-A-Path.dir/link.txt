@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/005-Finding-A-Path.dir/005-Finding-A-Path/main.cpp.o  -o 005-Finding-A-Path.exe -Wl,--out-implib,lib005-Finding-A-Path.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

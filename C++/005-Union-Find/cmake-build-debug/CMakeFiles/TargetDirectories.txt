@@ -1,0 +1,7 @@
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/CMakeFiles/005-Path-Compression.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/CMakeFiles/004-Optimaize-By-Rank.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/CMakeFiles/003-Optimize-By-Size.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/CMakeFiles/002-Quick-Union.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/CMakeFiles/001-Quick-Find.dir

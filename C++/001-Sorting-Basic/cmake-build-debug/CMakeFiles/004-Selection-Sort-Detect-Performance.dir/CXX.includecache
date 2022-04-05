@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/004-Selection-Sort-Detect-Performance/SortTestHelper.h
+iostream
+-
+ctime
+-
+cassert
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/004-Selection-Sort-Detect-Performance/Student.h
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/004-Selection-Sort-Detect-Performance/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+Student.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/004-Selection-Sort-Detect-Performance/Student.h
+SortTestHelper.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/001-Sorting-Basic/004-Selection-Sort-Detect-Performance/SortTestHelper.h
+

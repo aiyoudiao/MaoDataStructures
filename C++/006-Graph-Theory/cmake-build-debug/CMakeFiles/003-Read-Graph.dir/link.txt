@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/003-Read-Graph.dir/003-Read-Graph/main.cpp.o  -o 003-Read-Graph.exe -Wl,--out-implib,lib003-Read-Graph.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

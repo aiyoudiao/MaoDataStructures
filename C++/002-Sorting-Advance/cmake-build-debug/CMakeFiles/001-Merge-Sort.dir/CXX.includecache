@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/002-Sorting-Advance/001-Merge-Sort/InsertionSort.h
+iostream
+-
+algorithm
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/002-Sorting-Advance/001-Merge-Sort/SelectionSort.h
+iostream
+-
+algorithm
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/002-Sorting-Advance/001-Merge-Sort/SortTestHelper.h
+iostream
+-
+ctime
+-
+cassert
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/002-Sorting-Advance/001-Merge-Sort/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+SortTestHelper.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/002-Sorting-Advance/001-Merge-Sort/SortTestHelper.h
+SelectionSort.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/002-Sorting-Advance/001-Merge-Sort/SelectionSort.h
+InsertionSort.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/002-Sorting-Advance/001-Merge-Sort/InsertionSort.h
+

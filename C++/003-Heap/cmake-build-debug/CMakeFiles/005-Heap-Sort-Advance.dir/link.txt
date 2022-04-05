@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/005-Heap-Sort-Advance.dir/005-Heap-Sort-Advance/main.cpp.o  -o 005-Heap-Sort-Advance.exe -Wl,--out-implib,lib005-Heap-Sort-Advance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

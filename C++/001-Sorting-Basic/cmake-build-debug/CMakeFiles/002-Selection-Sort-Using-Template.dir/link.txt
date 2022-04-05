@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/002-Selection-Sort-Using-Template.dir/002-Selection-Sort-Using-Template/main.cpp.o  -o 002-Selection-Sort-Using-Template.exe -Wl,--out-implib,lib002-Selection-Sort-Using-Template.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

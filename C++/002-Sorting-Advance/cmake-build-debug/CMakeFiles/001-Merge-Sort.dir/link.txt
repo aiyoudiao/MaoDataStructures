@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/001-Merge-Sort.dir/001-Merge-Sort/main.cpp.o  -o 001-Merge-Sort.exe -Wl,--out-implib,lib001-Merge-Sort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

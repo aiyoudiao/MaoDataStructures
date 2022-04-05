@@ -1,0 +1,10 @@
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/CMakeFiles/007-Index-Heap-Basic.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/CMakeFiles/008-Index-Heap-Advance.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/CMakeFiles/005-Heap-Sort-Advance.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/CMakeFiles/006-Heap-Sort-In-Situ.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/CMakeFiles/004-Heap-Sort-Basic-And-Heapify.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/CMakeFiles/003-Max-Heap-Shift-Down.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/CMakeFiles/002-Max-Heap-Shift-Up.dir
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/CMakeFiles/001-Max-Heap-Class-Basic.dir

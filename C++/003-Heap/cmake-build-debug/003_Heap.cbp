@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="003_Heap"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="007-Index-Heap-Basic">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/007-Index-Heap-Basic.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 007-Index-Heap-Basic"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="007-Index-Heap-Basic/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/007-Index-Heap-Basic.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 007-Index-Heap-Basic/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="008-Index-Heap-Advance">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/008-Index-Heap-Advance.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 008-Index-Heap-Advance"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="008-Index-Heap-Advance/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/008-Index-Heap-Advance.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 008-Index-Heap-Advance/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="005-Heap-Sort-Advance">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/005-Heap-Sort-Advance.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 005-Heap-Sort-Advance"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="005-Heap-Sort-Advance/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/005-Heap-Sort-Advance.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 005-Heap-Sort-Advance/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="006-Heap-Sort-In-Situ">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/006-Heap-Sort-In-Situ.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 006-Heap-Sort-In-Situ"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="006-Heap-Sort-In-Situ/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/006-Heap-Sort-In-Situ.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 006-Heap-Sort-In-Situ/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="004-Heap-Sort-Basic-And-Heapify">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/004-Heap-Sort-Basic-And-Heapify.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 004-Heap-Sort-Basic-And-Heapify"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="004-Heap-Sort-Basic-And-Heapify/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/004-Heap-Sort-Basic-And-Heapify.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 004-Heap-Sort-Basic-And-Heapify/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="003-Max-Heap-Shift-Down">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/003-Max-Heap-Shift-Down.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 003-Max-Heap-Shift-Down"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="003-Max-Heap-Shift-Down/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/003-Max-Heap-Shift-Down.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 003-Max-Heap-Shift-Down/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="002-Max-Heap-Shift-Up">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/002-Max-Heap-Shift-Up.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 002-Max-Heap-Shift-Up"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="002-Max-Heap-Shift-Up/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/002-Max-Heap-Shift-Up.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 002-Max-Heap-Shift-Up/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="001-Max-Heap-Class-Basic">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/001-Max-Heap-Class-Basic.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 001-Max-Heap-Class-Basic"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="001-Max-Heap-Class-Basic/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/001-Max-Heap-Class-Basic.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 001-Max-Heap-Class-Basic/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/001-Max-Heap-Class-Basic/main.cpp">
+			<Option target="001-Max-Heap-Class-Basic"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/002-Max-Heap-Shift-Up/main.cpp">
+			<Option target="002-Max-Heap-Shift-Up"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/003-Max-Heap-Shift-Down/main.cpp">
+			<Option target="003-Max-Heap-Shift-Down"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/004-Heap-Sort-Basic-And-Heapify/InsertionSort.h">
+			<Option target="004-Heap-Sort-Basic-And-Heapify"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/004-Heap-Sort-Basic-And-Heapify/MaxHeap.h">
+			<Option target="004-Heap-Sort-Basic-And-Heapify"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/004-Heap-Sort-Basic-And-Heapify/MergeSort.h">
+			<Option target="004-Heap-Sort-Basic-And-Heapify"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/004-Heap-Sort-Basic-And-Heapify/MergeSortBottomUp.h">
+			<Option target="004-Heap-Sort-Basic-And-Heapify"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/004-Heap-Sort-Basic-And-Heapify/QucikSortTwo.h">
+			<Option target="004-Heap-Sort-Basic-And-Heapify"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/004-Heap-Sort-Basic-And-Heapify/QuickSort.h">
+			<Option target="004-Heap-Sort-Basic-And-Heapify"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/004-Heap-Sort-Basic-And-Heapify/QuickSort3Ways.h">
+			<Option target="004-Heap-Sort-Basic-And-Heapify"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/004-Heap-Sort-Basic-And-Heapify/SelectionSort.h">
+			<Option target="004-Heap-Sort-Basic-And-Heapify"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/004-Heap-Sort-Basic-And-Heapify/SortTestHelper.h">
+			<Option target="004-Heap-Sort-Basic-And-Heapify"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/004-Heap-Sort-Basic-And-Heapify/main.cpp">
+			<Option target="004-Heap-Sort-Basic-And-Heapify"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/005-Heap-Sort-Advance/InsertionSort.h">
+			<Option target="005-Heap-Sort-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/005-Heap-Sort-Advance/MaxHeap.h">
+			<Option target="005-Heap-Sort-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/005-Heap-Sort-Advance/MergeSort.h">
+			<Option target="005-Heap-Sort-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/005-Heap-Sort-Advance/MergeSortBottomUp.h">
+			<Option target="005-Heap-Sort-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/005-Heap-Sort-Advance/QucikSortTwo.h">
+			<Option target="005-Heap-Sort-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/005-Heap-Sort-Advance/QuickSort.h">
+			<Option target="005-Heap-Sort-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/005-Heap-Sort-Advance/QuickSort3Ways.h">
+			<Option target="005-Heap-Sort-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/005-Heap-Sort-Advance/SelectionSort.h">
+			<Option target="005-Heap-Sort-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/005-Heap-Sort-Advance/SortTestHelper.h">
+			<Option target="005-Heap-Sort-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/005-Heap-Sort-Advance/main.cpp">
+			<Option target="005-Heap-Sort-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/006-Heap-Sort-In-Situ/HeapSort.h">
+			<Option target="006-Heap-Sort-In-Situ"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/006-Heap-Sort-In-Situ/InsertionSort.h">
+			<Option target="006-Heap-Sort-In-Situ"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/006-Heap-Sort-In-Situ/MaxHeap.h">
+			<Option target="006-Heap-Sort-In-Situ"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/006-Heap-Sort-In-Situ/MergeSort.h">
+			<Option target="006-Heap-Sort-In-Situ"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/006-Heap-Sort-In-Situ/MergeSortBottomUp.h">
+			<Option target="006-Heap-Sort-In-Situ"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/006-Heap-Sort-In-Situ/QucikSortTwo.h">
+			<Option target="006-Heap-Sort-In-Situ"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/006-Heap-Sort-In-Situ/QuickSort.h">
+			<Option target="006-Heap-Sort-In-Situ"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/006-Heap-Sort-In-Situ/QuickSort3Ways.h">
+			<Option target="006-Heap-Sort-In-Situ"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/006-Heap-Sort-In-Situ/SelectionSort.h">
+			<Option target="006-Heap-Sort-In-Situ"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/006-Heap-Sort-In-Situ/SortTestHelper.h">
+			<Option target="006-Heap-Sort-In-Situ"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/006-Heap-Sort-In-Situ/main.cpp">
+			<Option target="006-Heap-Sort-In-Situ"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/007-Index-Heap-Basic/HeapSort.h">
+			<Option target="007-Index-Heap-Basic"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/007-Index-Heap-Basic/InsertionSort.h">
+			<Option target="007-Index-Heap-Basic"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/007-Index-Heap-Basic/MaxHeap.h">
+			<Option target="007-Index-Heap-Basic"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/007-Index-Heap-Basic/MergeSort.h">
+			<Option target="007-Index-Heap-Basic"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/007-Index-Heap-Basic/MergeSortBottomUp.h">
+			<Option target="007-Index-Heap-Basic"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/007-Index-Heap-Basic/QucikSortTwo.h">
+			<Option target="007-Index-Heap-Basic"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/007-Index-Heap-Basic/QuickSort.h">
+			<Option target="007-Index-Heap-Basic"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/007-Index-Heap-Basic/QuickSort3Ways.h">
+			<Option target="007-Index-Heap-Basic"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/007-Index-Heap-Basic/SelectionSort.h">
+			<Option target="007-Index-Heap-Basic"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/007-Index-Heap-Basic/SortTestHelper.h">
+			<Option target="007-Index-Heap-Basic"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/007-Index-Heap-Basic/main.cpp">
+			<Option target="007-Index-Heap-Basic"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/008-Index-Heap-Advance/HeapSort.h">
+			<Option target="008-Index-Heap-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/008-Index-Heap-Advance/InsertionSort.h">
+			<Option target="008-Index-Heap-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/008-Index-Heap-Advance/MaxHeap.h">
+			<Option target="008-Index-Heap-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/008-Index-Heap-Advance/MergeSort.h">
+			<Option target="008-Index-Heap-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/008-Index-Heap-Advance/MergeSortBottomUp.h">
+			<Option target="008-Index-Heap-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/008-Index-Heap-Advance/QucikSortTwo.h">
+			<Option target="008-Index-Heap-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/008-Index-Heap-Advance/QuickSort.h">
+			<Option target="008-Index-Heap-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/008-Index-Heap-Advance/QuickSort3Ways.h">
+			<Option target="008-Index-Heap-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/008-Index-Heap-Advance/SelectionSort.h">
+			<Option target="008-Index-Heap-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/008-Index-Heap-Advance/SortTestHelper.h">
+			<Option target="008-Index-Heap-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/008-Index-Heap-Advance/main.cpp">
+			<Option target="008-Index-Heap-Advance"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

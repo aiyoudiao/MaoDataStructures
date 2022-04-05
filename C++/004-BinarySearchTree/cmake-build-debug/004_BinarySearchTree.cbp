@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="004_BinarySearchTree"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="008-Binary-Search-Tree-Remove">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/008-Binary-Search-Tree-Remove.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 008-Binary-Search-Tree-Remove"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="008-Binary-Search-Tree-Remove/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/008-Binary-Search-Tree-Remove.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 008-Binary-Search-Tree-Remove/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="007-Binary-Search-Tree-Remove-Min-And-Max">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/007-Binary-Search-Tree-Remove-Min-And-Max.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 007-Binary-Search-Tree-Remove-Min-And-Max"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="007-Binary-Search-Tree-Remove-Min-And-Max/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/007-Binary-Search-Tree-Remove-Min-And-Max.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 007-Binary-Search-Tree-Remove-Min-And-Max/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="006-Binary-Search-Tree-Level-Traverse">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/006-Binary-Search-Tree-Level-Traverse.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 006-Binary-Search-Tree-Level-Traverse"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="006-Binary-Search-Tree-Level-Traverse/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/006-Binary-Search-Tree-Level-Traverse.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 006-Binary-Search-Tree-Level-Traverse/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="004-Binary-Search-Tree-Search">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/004-Binary-Search-Tree-Search.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 004-Binary-Search-Tree-Search"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="004-Binary-Search-Tree-Search/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/004-Binary-Search-Tree-Search.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 004-Binary-Search-Tree-Search/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="005-Binary-Search-Tree-Traverse">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/005-Binary-Search-Tree-Traverse.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 005-Binary-Search-Tree-Traverse"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="005-Binary-Search-Tree-Traverse/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/005-Binary-Search-Tree-Traverse.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 005-Binary-Search-Tree-Traverse/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="003-Binary-Search-Tree-Insert">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/003-Binary-Search-Tree-Insert.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 003-Binary-Search-Tree-Insert"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="003-Binary-Search-Tree-Insert/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/003-Binary-Search-Tree-Insert.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 003-Binary-Search-Tree-Insert/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="002-Binary-Search-Tree-Basics">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/002-Binary-Search-Tree-Basics.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 002-Binary-Search-Tree-Basics"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="002-Binary-Search-Tree-Basics/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/002-Binary-Search-Tree-Basics.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 002-Binary-Search-Tree-Basics/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="001-Binary-Serach">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/001-Binary-Serach.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 001-Binary-Serach"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="001-Binary-Serach/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/001-Binary-Serach.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 001-Binary-Serach/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/001-Binary-Serach/main.cpp">
+			<Option target="001-Binary-Serach"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/002-Binary-Search-Tree-Basics/main.cpp">
+			<Option target="002-Binary-Search-Tree-Basics"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/003-Binary-Search-Tree-Insert/main.cpp">
+			<Option target="003-Binary-Search-Tree-Insert"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/004-Binary-Search-Tree-Search/FileOps.h">
+			<Option target="004-Binary-Search-Tree-Search"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/004-Binary-Search-Tree-Search/SequenceST.h">
+			<Option target="004-Binary-Search-Tree-Search"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/004-Binary-Search-Tree-Search/bible.txt">
+			<Option target="004-Binary-Search-Tree-Search"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/004-Binary-Search-Tree-Search/main.cpp">
+			<Option target="004-Binary-Search-Tree-Search"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/005-Binary-Search-Tree-Traverse/BinarySearchTree.h">
+			<Option target="005-Binary-Search-Tree-Traverse"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/005-Binary-Search-Tree-Traverse/FileOps.h">
+			<Option target="005-Binary-Search-Tree-Traverse"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/005-Binary-Search-Tree-Traverse/SequenceST.h">
+			<Option target="005-Binary-Search-Tree-Traverse"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/005-Binary-Search-Tree-Traverse/bible.txt">
+			<Option target="005-Binary-Search-Tree-Traverse"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/005-Binary-Search-Tree-Traverse/main.cpp">
+			<Option target="005-Binary-Search-Tree-Traverse"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/006-Binary-Search-Tree-Level-Traverse/BinarySearchTree.h">
+			<Option target="006-Binary-Search-Tree-Level-Traverse"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/006-Binary-Search-Tree-Level-Traverse/FileOps.h">
+			<Option target="006-Binary-Search-Tree-Level-Traverse"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/006-Binary-Search-Tree-Level-Traverse/SequenceST.h">
+			<Option target="006-Binary-Search-Tree-Level-Traverse"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/006-Binary-Search-Tree-Level-Traverse/bible.txt">
+			<Option target="006-Binary-Search-Tree-Level-Traverse"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/006-Binary-Search-Tree-Level-Traverse/main.cpp">
+			<Option target="006-Binary-Search-Tree-Level-Traverse"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/007-Binary-Search-Tree-Remove-Min-And-Max/BinarySearchTree.h">
+			<Option target="007-Binary-Search-Tree-Remove-Min-And-Max"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/007-Binary-Search-Tree-Remove-Min-And-Max/FileOps.h">
+			<Option target="007-Binary-Search-Tree-Remove-Min-And-Max"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/007-Binary-Search-Tree-Remove-Min-And-Max/SequenceST.h">
+			<Option target="007-Binary-Search-Tree-Remove-Min-And-Max"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/007-Binary-Search-Tree-Remove-Min-And-Max/bible.txt">
+			<Option target="007-Binary-Search-Tree-Remove-Min-And-Max"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/007-Binary-Search-Tree-Remove-Min-And-Max/main.cpp">
+			<Option target="007-Binary-Search-Tree-Remove-Min-And-Max"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/008-Binary-Search-Tree-Remove/BinarySearchTree.h">
+			<Option target="008-Binary-Search-Tree-Remove"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/008-Binary-Search-Tree-Remove/FileOps.h">
+			<Option target="008-Binary-Search-Tree-Remove"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/008-Binary-Search-Tree-Remove/SequenceST.h">
+			<Option target="008-Binary-Search-Tree-Remove"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/008-Binary-Search-Tree-Remove/bible.txt">
+			<Option target="008-Binary-Search-Tree-Remove"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/008-Binary-Search-Tree-Remove/main.cpp">
+			<Option target="008-Binary-Search-Tree-Remove"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/004-BinarySearchTree/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="005_Union_Find"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="005-Path-Compression">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/005-Path-Compression.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 005-Path-Compression"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="005-Path-Compression/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/005-Path-Compression.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 005-Path-Compression/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="004-Optimaize-By-Rank">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/004-Optimaize-By-Rank.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 004-Optimaize-By-Rank"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="004-Optimaize-By-Rank/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/004-Optimaize-By-Rank.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 004-Optimaize-By-Rank/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="003-Optimize-By-Size">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/003-Optimize-By-Size.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 003-Optimize-By-Size"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="003-Optimize-By-Size/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/003-Optimize-By-Size.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 003-Optimize-By-Size/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="002-Quick-Union">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/002-Quick-Union.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 002-Quick-Union"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="002-Quick-Union/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/002-Quick-Union.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 002-Quick-Union/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="001-Quick-Find">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/001-Quick-Find.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 001-Quick-Find"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="001-Quick-Find/fast">
+				<Option output="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/001-Quick-Find.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 001-Quick-Find/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/001-Quick-Find/UnionFindQucikFind.h">
+			<Option target="001-Quick-Find"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/001-Quick-Find/UnionFindTestHelper.h">
+			<Option target="001-Quick-Find"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/001-Quick-Find/main.cpp">
+			<Option target="001-Quick-Find"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/002-Quick-Union/UnionFindQucikFind.h">
+			<Option target="002-Quick-Union"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/002-Quick-Union/UnionFindQuickUnion1.h">
+			<Option target="002-Quick-Union"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/002-Quick-Union/UnionFindTestHelper.h">
+			<Option target="002-Quick-Union"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/002-Quick-Union/main.cpp">
+			<Option target="002-Quick-Union"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/003-Optimize-By-Size/UnionFindQucikFind.h">
+			<Option target="003-Optimize-By-Size"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/003-Optimize-By-Size/UnionFindQuickUnion1.h">
+			<Option target="003-Optimize-By-Size"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/003-Optimize-By-Size/UnionFindQuickUnion2.h">
+			<Option target="003-Optimize-By-Size"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/003-Optimize-By-Size/UnionFindTestHelper.h">
+			<Option target="003-Optimize-By-Size"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/003-Optimize-By-Size/main.cpp">
+			<Option target="003-Optimize-By-Size"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindQucikFind.h">
+			<Option target="004-Optimaize-By-Rank"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindQuickUnion1.h">
+			<Option target="004-Optimaize-By-Rank"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindQuickUnion2.h">
+			<Option target="004-Optimaize-By-Rank"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindQuickUnion3.h">
+			<Option target="004-Optimaize-By-Rank"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindTestHelper.h">
+			<Option target="004-Optimaize-By-Rank"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/main.cpp">
+			<Option target="004-Optimaize-By-Rank"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/005-Path-Compression/UnionFindQucikFind.h">
+			<Option target="005-Path-Compression"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/005-Path-Compression/UnionFindQuickUnion1.h">
+			<Option target="005-Path-Compression"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/005-Path-Compression/UnionFindQuickUnion2.h">
+			<Option target="005-Path-Compression"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/005-Path-Compression/UnionFindQuickUnion3.h">
+			<Option target="005-Path-Compression"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/005-Path-Compression/UnionFindQuickUnion4.h">
+			<Option target="005-Path-Compression"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/005-Path-Compression/UnionFindTestHelper.h">
+			<Option target="005-Path-Compression"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/005-Path-Compression/main.cpp">
+			<Option target="005-Path-Compression"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindQucikFind.h
+cassert
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindQuickUnion1.h
+cassert
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindQuickUnion2.h
+cassert
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindQuickUnion3.h
+cassert
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindTestHelper.h
+iostream
+-
+ctime
+-
+UnionFindQucikFind.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindQucikFind.h
+UnionFindQuickUnion1.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindQuickUnion1.h
+UnionFindQuickUnion2.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindQuickUnion2.h
+UnionFindQuickUnion3.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindQuickUnion3.h
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/main.cpp
+iostream
+-
+UnionFindTestHelper.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/004-Optimaize-By-Rank/UnionFindTestHelper.h
+

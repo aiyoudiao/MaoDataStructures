@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/007-Index-Heap-Basic.dir/007-Index-Heap-Basic/main.cpp.o  -o 007-Index-Heap-Basic.exe -Wl,--out-implib,lib007-Index-Heap-Basic.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

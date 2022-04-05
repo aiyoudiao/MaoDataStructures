@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/002_Sorting_Advance.dir/main.cpp.o  -o 002_Sorting_Advance.exe -Wl,--out-implib,lib002_Sorting_Advance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

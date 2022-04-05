@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/006-Heap-Sort-In-Situ.dir/006-Heap-Sort-In-Situ/main.cpp.o  -o 006-Heap-Sort-In-Situ.exe -Wl,--out-implib,lib006-Heap-Sort-In-Situ.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

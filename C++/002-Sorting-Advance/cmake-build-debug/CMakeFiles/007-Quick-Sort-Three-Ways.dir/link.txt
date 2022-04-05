@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/007-Quick-Sort-Three-Ways.dir/007-Quick-Sort-Three-Ways/main.cpp.o  -o 007-Quick-Sort-Three-Ways.exe -Wl,--out-implib,lib007-Quick-Sort-Three-Ways.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/001-Quick-Find.dir/001-Quick-Find/main.cpp.o  -o 001-Quick-Find.exe -Wl,--out-implib,lib001-Quick-Find.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

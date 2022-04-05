@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/001-Max-Heap-Class-Basic.dir/001-Max-Heap-Class-Basic/main.cpp.o  -o 001-Max-Heap-Class-Basic.exe -Wl,--out-implib,lib001-Max-Heap-Class-Basic.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

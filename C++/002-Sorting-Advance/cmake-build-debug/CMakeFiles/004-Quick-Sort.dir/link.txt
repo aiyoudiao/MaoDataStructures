@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/004-Quick-Sort.dir/004-Quick-Sort/main.cpp.o  -o 004-Quick-Sort.exe -Wl,--out-implib,lib004-Quick-Sort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

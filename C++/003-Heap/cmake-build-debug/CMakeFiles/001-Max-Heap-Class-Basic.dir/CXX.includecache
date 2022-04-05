@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/003-Heap/001-Max-Heap-Class-Basic/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+ctime
+-
+cmath
+-
+cassert
+-
+

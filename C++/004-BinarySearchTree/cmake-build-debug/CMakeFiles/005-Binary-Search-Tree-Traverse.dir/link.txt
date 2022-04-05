@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/005-Binary-Search-Tree-Traverse.dir/005-Binary-Search-Tree-Traverse/main.cpp.o  -o 005-Binary-Search-Tree-Traverse.exe -Wl,--out-implib,lib005-Binary-Search-Tree-Traverse.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

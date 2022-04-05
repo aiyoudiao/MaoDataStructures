@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/001-Binary-Serach.dir/001-Binary-Serach/main.cpp.o  -o 001-Binary-Serach.exe -Wl,--out-implib,lib001-Binary-Serach.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/002-Vertex-Adjacent-Iterator.dir/002-Vertex-Adjacent-Iterator/main.cpp.o  -o 002-Vertex-Adjacent-Iterator.exe -Wl,--out-implib,lib002-Vertex-Adjacent-Iterator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

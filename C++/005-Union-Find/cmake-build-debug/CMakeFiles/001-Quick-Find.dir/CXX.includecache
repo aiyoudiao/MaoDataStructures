@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/001-Quick-Find/UnionFindQucikFind.h
+cassert
+-
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/001-Quick-Find/UnionFindTestHelper.h
+iostream
+-
+ctime
+-
+UnionFindQucikFind.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/001-Quick-Find/UnionFindQucikFind.h
+
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/001-Quick-Find/main.cpp
+iostream
+-
+UnionFindTestHelper.h
+/cygdrive/c/Users/LENOVO/Desktop/Algorithms/myproject/Algorithms/005-Union-Find/001-Quick-Find/UnionFindTestHelper.h
+
